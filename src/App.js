@@ -5,7 +5,6 @@ import {
   Route
 } from "react-router-dom";
 import Navbar from './components/Navbar';
-import PageNotFound from './components/PageNotFound';
 import { Home } from './components/Home';
 import MovieDetail from './components/MovieDetail';
 
